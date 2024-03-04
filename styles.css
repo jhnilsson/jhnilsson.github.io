@@ -15,7 +15,8 @@
 	text-decoration: none;
 	font-size: 30px;
 	color: #818181;
-	display; block;
+	display; flex;
+	flex-direction: column;
 }	
 
 .sidenav a:hover {
@@ -31,8 +32,6 @@
 
 body, html {
 	background-color: #121212;
-	margin-left: 6em;
-	font-size: 30px;
 	color: #ffffff;
 }
 

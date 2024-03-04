@@ -8,15 +8,16 @@
 	background-color: #222;
 	overflow-x: hidden;
 	padding-top: 1em;
+	font-size: 25px;
 }
 
 .sidenav a {
 	padding: 1em 0.5em 1em 0.5em;
 	text-decoration: none;
-	font-size: 25px;
 	color: #ffffff;
 	display; flex;
 	flex-direction: column;
+	margin: 1em;
 }	
 
 .sidenav a:hover {

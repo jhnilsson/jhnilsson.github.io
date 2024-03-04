@@ -29,6 +29,13 @@
 	color: #ffffff;
 }
 
+main {
+	background-color: #121212;
+	margin-left: 6em;
+	font-size: 30px;
+	color: #ffffff;
+}
+
 header {
 	text-align: center;
 }

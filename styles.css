@@ -29,7 +29,7 @@
 	color: #ffffff;
 }
 
-main {
+body, html {
 	background-color: #121212;
 	margin-left: 6em;
 	font-size: 30px;
